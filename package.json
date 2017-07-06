@@ -1,0 +1,15 @@
+{
+  "name": "7shifts-javascript",
+  "version": "0.0.1",
+  "description": "library to interact with the 7shifts api",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "sealthedeal",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^7.1.0",
+    "request": "^2.81.0"
+  }
+}
