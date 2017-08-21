@@ -6,6 +6,7 @@ const Shifts = require('./lib/Shifts');
 const TimePunches = require('./lib/TimePunches');
 const Users = require('./lib/Users');
 
+
 module.exports = {
   Locations: Locations,
   Departments: Departments,
@@ -13,5 +14,5 @@ module.exports = {
   Roles: Roles,
   Shifts: Shifts,
   TimePunches: TimePunches,
-  Users: Users
+  Users: Users,
 }

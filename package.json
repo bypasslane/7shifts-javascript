@@ -1,6 +1,6 @@
 {
   "name": "7shifts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "library to interact with the 7shifts api",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "author": "sealthedeal",
   "license": "MIT",
   "dependencies": {
-    "got": "^7.1.0",
-    "request": "^2.81.0"
+    "got": "^7.1.0"
   }
 }
