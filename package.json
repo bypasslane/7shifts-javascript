@@ -1,6 +1,6 @@
 {
   "name": "7shifts",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "library to interact with the 7shifts api",
   "main": "index.js",
   "scripts": {
